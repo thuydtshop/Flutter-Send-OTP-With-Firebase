@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 - Clone the project
+
+- cd `ios` and run `pod repo update` then `pod install` then `cd ..`
   
 - Run `flutter pub get` to install dependencies
 
